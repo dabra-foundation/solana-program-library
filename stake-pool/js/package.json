@@ -46,7 +46,7 @@
     "@solana/buffer-layout": "^4.0.1",
     "@solana/spl-token": "0.4.9",
     "@solana/web3.js": "^1.95.5",
-    "bn.js": "^5.2.0",
+    "bn.js": "^5.2.2",
     "buffer": "^6.0.3",
     "buffer-layout": "^1.2.2",
     "superstruct": "^2.0.2"
